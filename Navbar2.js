@@ -2,6 +2,7 @@ const Navbar = () => {
     return (
         <nav className="navbar">
             <h1>The AG'S Blog</h1>
+        
             <div className="links">
                 <a href="/">Home</a>
         
