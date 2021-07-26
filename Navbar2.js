@@ -9,6 +9,7 @@ const Navbar = () => {
         
                 <a href="/create" style={{
                     color:"white",
+        
                     backgroundColor:'#f1356d',
                     borderRadius:'8px'
         
