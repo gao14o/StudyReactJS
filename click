@@ -9,6 +9,7 @@ const Home = () => {
 
     return (
         <div className="home">
+        
             <h2>仍在开发并且招募中：</h2>
             
             
