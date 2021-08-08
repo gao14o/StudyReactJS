@@ -1,6 +1,7 @@
 const Navbar = () => {
     return (
         <nav className="navbar">
+        
             <h1>The AG'S Blog</h1>
         
             <div className="links">
@@ -12,6 +13,7 @@ const Navbar = () => {
                     color:"white",
         
                     backgroundColor:'#f1356d',
+        
                     borderRadius:'8px'
         
                 }}>New Blog</a>
